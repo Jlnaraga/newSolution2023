@@ -1633,6 +1633,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
+          "MySolutions.Domain": "1.0.0",
           "MySolutions.Service.Contracts": "1.0.0"
         },
         "compile": {
@@ -1711,6 +1712,9 @@
       "MySolutions.Service.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MySolutions.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MySolutions.Service.Contracts.dll": {}
         },

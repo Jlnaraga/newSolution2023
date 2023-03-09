@@ -129,6 +129,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Domain\\MySolutions.Domain.csproj": {
+                "projectPath": "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Domain\\MySolutions.Domain.csproj"
+              },
               "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Service.Contracts\\MySolutions.Service.Contracts.csproj": {
                 "projectPath": "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Service.Contracts\\MySolutions.Service.Contracts.csproj"
               }
@@ -430,7 +433,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Domain\\MySolutions.Domain.csproj": {
+                "projectPath": "C:\\Users\\ira_b\\Desktop\\myProjects\\newSolution2023\\MySolutions.Domain\\MySolutions.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
